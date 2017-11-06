@@ -1,0 +1,30 @@
+.lz-headertop
+{
+ background-image	:url(dasdad)  !important
+}
+
+
+
+.pp
+{
+	background-image:url("images\pozoriste.jpg");
+}
+.pozadina{
+	background-color:green;
+	background-image:url("pozadina.jpg");
+	height:600px;
+	width:1920px;
+}
+
+.cbx-subscribe-form{
+	
+	background-color: black; !important
+	
+	
+}
+
+.glyphicon{
+	
+	color:white;
+	
+}
